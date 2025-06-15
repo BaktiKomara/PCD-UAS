@@ -1,5 +1,0 @@
-# PCD-UAS
-Ujian Akhir Semeseter
-
-Nama: Moch Bakti Komara Rusiana Putra
-NRP: 152023061
